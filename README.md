@@ -36,7 +36,7 @@ Probability and Statistics • Geometric Methods • Bayesian Analysis • Machi
 
 ## GitHub Stats
 
-[![juanitorduz's github stats](https://github-readme-stats.vercel.app/api?username=juanitorduz&theme=dark&show_icons=true)](https://github.com/juanitorduz)
+[![juanitorduz's github stats](https://github-readme-stats.vercel.app/api?username=juanitorduz&theme=dark&show_icons=true&count_private=true)](https://github.com/juanitorduz)
 
 ---
 
