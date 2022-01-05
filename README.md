@@ -32,12 +32,4 @@ Probability and Statistics • Geometric Methods • Bayesian Analysis • Machi
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
 </p>
 
----
-
-## GitHub Stats
-
-[![juanitorduz's github stats](https://github-readme-stats.vercel.app/api?username=juanitorduz&theme=dark&show_icons=true&count_private=true)](https://github.com/juanitorduz)
-
----
-
 I am a co-organizer of the [Berlin Time Series Analysis Meet-Up](https://www.meetup.com/Berlin-Time-Series-Analysis-Meetup/). Please visit the repository [btsa](https://github.com/juanitorduz/btsa) for more information.
