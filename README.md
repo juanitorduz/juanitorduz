@@ -9,7 +9,7 @@ Probability and Statistics • Geometric Methods • Bayesian Analysis • Machi
 
 ## Contact
 
-**Personal Website:** [https://juanitorduz.github.io/](https://juanitorduz.github.io/)
+**Personal Website:** [juanitorduz.github.io](https://juanitorduz.github.io/)
 
 **E-Mail:** [juanitorduz@gmail.com](mailto:juanitorduz@gmail.com)
 
@@ -19,6 +19,7 @@ Probability and Statistics • Geometric Methods • Bayesian Analysis • Machi
 <a href="https://linkedin.com/in/juanitorduz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="juanitorduz" height="40"/></a>
 
 ---
+
 ## Tech Stack
 
 <p align="center">
@@ -31,5 +32,7 @@ Probability and Statistics • Geometric Methods • Bayesian Analysis • Machi
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
 </p>
+
+---
 
 I am a co-organizer of the [Berlin Time Series Analysis Meet-Up](https://www.meetup.com/Berlin-Time-Series-Analysis-Meetup/). Please visit the repository [btsa](https://github.com/juanitorduz/btsa) for more information.
