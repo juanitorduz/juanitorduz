@@ -4,7 +4,7 @@
 
 ## Interests
 
-Probability and Statistics • Geometric Methods • Bayesian Analysis • Machine Learning • Deep Learning • Clustering Techniques • Time Series Analysis • Natural Language Processing • Network Analysis • Visualization • Clean Code • Knowledge Sharing 
+Probability and Statistics • Geometric Methods • Bayesian Analysis • Machine Learning • Deep Learning • Clustering Techniques • Time Series Analysis • Natural Language Processing • Network Analysis • Visualization • Clean Code • Open Source Software • Knowledge Sharing 
 
 
 ## Contact
