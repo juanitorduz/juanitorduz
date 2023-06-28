@@ -4,7 +4,7 @@
 
 ## Interests
 
-Probability and Statistics • Geometric Methods • Bayesian Analysis • Machine Learning • Deep Learning • Clustering Techniques • Time Series Analysis • Natural Language Processing • Network Analysis • Visualization • Clean Code • Open Source Software • Knowledge Sharing 
+Probability and Statistics • Geometric Methods • Bayesian Analysis • Machine Learning • Causal Inference • Deep Learning • Clustering Techniques • Time Series Analysis • Natural Language Processing • Network Analysis • Visualization • Clean Code • Open Source Software • Knowledge Sharing 
 
 
 ## Contact
@@ -36,4 +36,4 @@ Probability and Statistics • Geometric Methods • Bayesian Analysis • Machi
 
 ---
 
-I am a co-organizer of the [Berlin Time Series Analysis Meet-Up](https://www.meetup.com/Berlin-Time-Series-Analysis-Meetup/). Please visit the repository [btsa](https://github.com/juanitorduz/btsa) for more information.
+I co-organize the [Berlin Time Series Analysis Meet-Up](https://www.meetup.com/Berlin-Time-Series-Analysis-Meetup/). Please visit the repository [btsa](https://github.com/juanitorduz/btsa) for more information.
