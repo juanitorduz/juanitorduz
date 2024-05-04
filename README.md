@@ -6,12 +6,18 @@
 
 Probability and Statistics • Geometric Methods • Bayesian Analysis • Machine Learning • Causal Inference • Deep Learning • Time Series Analysis • Network Analysis • Visualization • Clean Code • Open Source Software • Knowledge Sharing 
 
+## Open Source Contributor
+
+Selected projects:
+
+- PyMC Marketing: https://github.com/pymc-labs/pymc-marketing
+- PyMC: https://github.com/pymc-devs/pymc
+- PyMC-Bart: https://github.com/pymc-devs/pymc-bart
+- NumPyro: https://github.com/pyro-ppl/numpyro
 
 ## Contact
 
 **Personal Website:** [juanitorduz.github.io](https://juanitorduz.github.io/)
-
-**E-Mail:** [juanitorduz@gmail.com](mailto:juanitorduz@gmail.com)
 
 **Social Media:**
 
