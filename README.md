@@ -8,7 +8,7 @@ Probability and Statistics • Geometric Methods • Bayesian Analysis • Machi
 
 ## Open Source Contributor
 
-Selected projects:
+Selected projects I have contributed to:
 
 - PyMC Marketing: https://github.com/pymc-labs/pymc-marketing
 - PyMC: https://github.com/pymc-devs/pymc
