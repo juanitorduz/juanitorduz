@@ -21,7 +21,6 @@ Selected projects I have contributed to:
 
 **Social Media:**
 
-<a href="https://twitter.com/juanitorduz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="juanitorduz" height="30"  /></a>
 <a href="https://bayes.club/@juanitorduz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-tile.svg" alt="juanitorduz" height="40"  /></a>
 <a href="https://linkedin.com/in/juanitorduz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="juanitorduz" height="40"/></a>
 
