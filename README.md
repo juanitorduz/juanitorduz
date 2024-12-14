@@ -4,7 +4,7 @@
 
 ## Interests
 
-Probability and Statistics • Geometric Methods • Bayesian Analysis • Machine Learning • Causal Inference • Deep Learning • Time Series Analysis • Network Analysis • Visualization • Clean Code • Open Source Software • Knowledge Sharing 
+Probability and Statistics • Geometric Methods • Bayesian Analysis • Machine Learning • Causal Inference • Deep Learning • Time Series Analysis • Forecasting • Network Analysis • Visualization • Clean Code • Open Source Software • Knowledge Sharing 
 
 ## Open Source Contributor
 
@@ -18,11 +18,6 @@ Selected projects I have contributed to:
 ## Contact
 
 **Personal Website:** [juanitorduz.github.io](https://juanitorduz.github.io/)
-
-**Social Media:**
-
-<a href="https://bayes.club/@juanitorduz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-tile.svg" alt="juanitorduz" height="40"  /></a>
-<a href="https://linkedin.com/in/juanitorduz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="juanitorduz" height="40"/></a>
 
 ---
 
