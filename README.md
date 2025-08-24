@@ -2,6 +2,8 @@
 
 # Mathematician & Data Scientist
 
+Mathematician (Ph.D. Humboldt Universität zu Berlin) and data scientist (PyMC Labs & Delivery Hero). I am interested in interdisciplinary applications of mathematical methods. In particular, time series analysis, Bayesian methods, and causal inference.
+
 ## Interests
 
 Probability and Statistics • Geometric Methods • Bayesian Analysis • Machine Learning • Causal Inference • Deep Learning • Time Series Analysis • Forecasting • Network Analysis • Visualization • Clean Code • Open Source Software • Knowledge Sharing 
@@ -14,6 +16,8 @@ Selected projects I have contributed to:
 - PyMC: https://github.com/pymc-devs/pymc
 - PyMC-Bart: https://github.com/pymc-devs/pymc-bart
 - NumPyro: https://github.com/pyro-ppl/numpyro
+- PyFixest: https://github.com/py-econometrics/pyfixest
+- CausalPy: https://github.com/pymc-labs/CausalPy
 
 ## Contact
 
@@ -35,5 +39,3 @@ Selected projects I have contributed to:
 </p>
 
 ---
-
-I co-organize the [Berlin Time Series Analysis Meet-Up](https://www.meetup.com/Berlin-Time-Series-Analysis-Meetup/). Please visit the repository [btsa](https://github.com/juanitorduz/btsa) for more information.
