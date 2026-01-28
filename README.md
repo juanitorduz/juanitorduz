@@ -2,7 +2,7 @@
 
 # Mathematician & Data Scientist
 
-Mathematician (Ph.D. Humboldt Universität zu Berlin) and data scientist (PyMC Labs & Delivery Hero). I am interested in interdisciplinary applications of mathematical methods. In particular, time series analysis, Bayesian methods, and causal inference.
+Mathematician (Ph.D. Humboldt Universität zu Berlin) and data scientist ([PyMC Labs](https://www.pymc-labs.com/)). I am interested in interdisciplinary applications of mathematical methods. In particular, time series analysis, Bayesian methods, and causal inference.
 
 ## Interests
 
