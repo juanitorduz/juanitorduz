@@ -8,14 +8,23 @@ Probability and Statistics • Geometric Methods • Bayesian Analysis • Machi
 
 ## Open Source Contributor
 
-Selected projects I have contributed to:
+I maintain:
 
+- NumPyro Forecast: https://github.com/juanitorduz/numpyro_forecast (🚧 under development)
+
+Core contributor:
+
+- CausalPy: https://github.com/pymc-labs/CausalPy
+- NumPyro: https://github.com/pyro-ppl/numpyro
+- PathMC: https://github.com/pymc-labs/pathmc
 - PyMC Marketing: https://github.com/pymc-labs/pymc-marketing
 - PyMC: https://github.com/pymc-devs/pymc
 - PyMC-Bart: https://github.com/pymc-devs/pymc-bart
-- NumPyro: https://github.com/pyro-ppl/numpyro
+
+
+I contribute:
+
 - PyFixest: https://github.com/py-econometrics/pyfixest
-- CausalPy: https://github.com/pymc-labs/CausalPy
 
 ## Contact
 
