@@ -10,7 +10,7 @@ Probability and Statistics • Geometric Methods • Bayesian Analysis • Machi
 
 I maintain:
 
-- NumPyro Forecast: https://github.com/juanitorduz/numpyro_forecast (🚧 under development)
+- NumPyro Forecast: https://github.com/juanitorduz/numpyro_forecast
 
 Core contributor:
 
